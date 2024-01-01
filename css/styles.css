@@ -13,7 +13,7 @@ margin-bottom: 0;
 }
 .wrapper {
 
-    background-color: 	#FFE4C4;
+    background-color: 		#FFEFD5;
     display: flex;
     flex-direction: row-reverse;
     width: 1200px;
@@ -36,7 +36,7 @@ margin-bottom: 0;
 /* sidebar */
 .sidebar {
 
-    background: 	#556B2F;
+    background: 		#D8BFD8;
     padding-top: 40px;
     padding-bottom: 40px;
     box-sizing: border-box;
@@ -45,9 +45,9 @@ margin-bottom: 0;
 }
 .sidebar-content {
 
-    padding-left: 40px;
+    padding-left: 20px;
     padding-top: 40px;
-    padding-right: 40px;
+    padding-right: 20px;
     box-sizing: border-box;
 
 }
@@ -57,18 +57,18 @@ margin-bottom: 0;
 .contacts-title {
 
     color: #161D2A;
-    font-size: 22px;
+    font-size: 35px;
     font-weight: 700;
     line-height: normal;
     margin-top: 0; 
-    margin-bottom: 8px;
+    margin-bottom: 20px;
 
 }
 
 .contacts-type {
 
     color: #161D2A;
-font-size: 14px;
+font-size: 24px;
 font-weight: 700;
 line-height: 24px; 
 margin-right: 8px;
@@ -77,9 +77,9 @@ margin-right: 8px;
 
 .contacts-link {
 
-    color: #FFFFF0;
-font-size: 14px;
-font-weight: 400;
+    color: 		#C71585;
+font-size: 24px;
+font-weight: 500;
 line-height: 24px;
 text-decoration-line: underline; 
 
@@ -88,13 +88,13 @@ text-decoration-line: underline;
 .contacts-item {
 
     margin-top: 0;
-    margin-bottom: 8px;
+    margin-bottom: 16px;
 
 }
 
 .contacts-container {
 
-    margin-bottom: 40px;
+    margin-bottom: 60px;
 
 }
 
@@ -102,7 +102,7 @@ text-decoration-line: underline;
 
 
 .skills-container {
-    margin-bottom: 40px;
+    margin-bottom: 60px;
 
 }
 
@@ -111,11 +111,11 @@ text-decoration-line: underline;
 .skills-title {
 
     color: #161D2A;
-    font-size: 22px;
+    font-size: 30px;
     font-weight: 700;
     line-height: normal; 
     margin-top: 0;
-    margin-bottom: 8px;
+    margin-bottom: 20px;
 
 }
 
@@ -128,23 +128,23 @@ text-decoration-line: underline;
  .skills-list-item {
 
     color: #161D2A;
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 24px; 
+    font-size: 20px;
+    font-weight: 550;
+    line-height: 30px; 
  }
 
 .ss-box {
-margin-bottom: 40px;
+margin-bottom: 60px;
 
 }
 
 .ss-title {
     color: #161D2A;
-font-size: 22px;
+font-size: 30px;
 font-weight: 700;
 line-height: normal;
 margin-top: 0;
-margin-bottom: 8px;
+margin-bottom: 20px;
 
 }
 
@@ -154,9 +154,9 @@ margin-bottom: 8px;
 
 .ss-list-item {
     color: #161D2A;
-font-size: 14px;
-font-weight: 400;
-line-height: 24px; 
+font-size: 20px;
+font-weight: 550;
+line-height: 30px; 
 
 }
 
@@ -164,11 +164,11 @@ line-height: 24px;
 
 .my-proffesion {
     color: #000;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 700;
     line-height: 17px;
     margin-top: 0;
-    margin-bottom: 8px; 
+    margin-bottom: 20px; 
 
 }
 
@@ -183,8 +183,8 @@ line-height: 24px;
 
 .my-descr {
     color: #595959;
-    font-size: 14px;
-    font-weight: 400;
+    font-size: 20px;
+    font-weight: 550;
     line-height: 24px; 
 
 }
@@ -197,17 +197,17 @@ line-height: 24px;
 
 .my-projects-title {
     color: #000;
-    font-size: 22px;
+    font-size: 30px;
     font-weight: 700;
     line-height: 27px; 
     margin-top: 0;
-    margin-bottom: 8px;
+    margin-bottom: 16px;
 
 }
 
 .my-projects-item {
     color: #000;
-    font-size: 14px;
+    font-size: 22px;
     font-weight: 700;
     line-height: 24px; 
 
@@ -220,7 +220,7 @@ padding-left: 16px;
 
 .my-projects-item-link {
     color:	#4B0082;
-    font-size: 14px;
+    font-size: 22px;
     font-weight: 400;
     line-height: 24px; 
     text-decoration-line: underline;
@@ -241,35 +241,35 @@ padding-left: 16px;
 
  .work-expierence-title {
     color: #000;
-    font-size: 22px;
+    font-size: 30px;
     font-weight: 700;
     line-height: 27px; 
     margin-top: 0;
-    margin-bottom: 8px;
+    margin-bottom: 20px;
 
  }
 
  .work-expierence-company {
     color: #000;
-    font-size: 16px;
+    font-size: 22px;
     font-weight: 700;
-    line-height: 20px; 
+    line-height: 40px; 
     margin-top: 0;
-    margin-bottom: 12px;
+    margin-bottom: 16px;
 
  }
 
  .company-name {
-    color: #228B22;
+    color: #C71585;
     
  }
 
  .work-expierence-period {
     color: rgb(33, 51, 69);
-    font-size: 12px;
-    font-weight: 400;
-    line-height: 15px;
-    margin-bottom: 8px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18px;
+    margin-bottom: 16px;
  }
  .work-expierence-period-separator {
     color: #000;
@@ -281,44 +281,44 @@ padding-left: 16px;
 
 .work-expierence-duties-item {
     color: rgb(33, 51, 69);
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 24px; 
+    font-size: 18px;
+    font-weight: 550;
+    line-height: 28px; 
 }
 .work-expierence-container {
-    margin-bottom: 12px;
+    margin-bottom: 18px;
 }
 .education-title {
     color: #000;
-    font-size: 22px;
+    font-size: 30px;
     font-weight: 700;
-    line-height: normal; 
+    line-height: 27px; 
 }
 .education-place {
-    color: #228B22;
-font-size: 16px;
+    color: #C71585;
+font-size: 22px;
 font-weight: 700;
-line-height: normal;
+line-height: 40px;
 }
 .education-specialty {
     color: #000;
-font-size: 14px;
+font-size: 22px;
 font-weight: 700;
-line-height: normal;
+line-height: 25px;
 }
 .education-place-period {
     color: rgb(33, 51, 69);
-font-size: 12px;
-font-weight: 400;
-line-height: normal;
+font-size: 16px;
+font-weight: 500;
+line-height: 18px;
 }
 .education-place-period-separator {
     color: #000;
 }
 .rodo {
-    margin-top: 40px;
+    margin-top: 60px;
     color:  #000;
-font-size: 14px;
+font-size: 20px;
 font-weight: 600;
-line-height: normal;
+line-height: 25px;
 }
