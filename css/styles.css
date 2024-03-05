@@ -1,5 +1,5 @@
 body {
-    background-image: url(/images/pexels-luis-del-río-15286.jpg);
+    /*background-image: url(/images/pexels-luis-del-río-15286.jpg);*/
     padding-left: 40px;
     padding-top: 40px;
     padding-right: 40px;
@@ -36,18 +36,18 @@ margin-bottom: 0;
 /* sidebar */
 .sidebar {
 
-    background: 		#D8BFD8;
+    background: 		#4169E1;
     padding-top: 40px;
     padding-bottom: 40px;
     box-sizing: border-box;
-    width: 370px;
+    width: 375px;
 
 }
 .sidebar-content {
 
-    padding-left: 20px;
+    padding-left: 12px;
     padding-top: 40px;
-    padding-right: 20px;
+    padding-right: 12px;
     box-sizing: border-box;
 
 }
@@ -57,8 +57,8 @@ margin-bottom: 0;
 .contacts-title {
 
     color: #161D2A;
-    font-size: 35px;
-    font-weight: 700;
+    font-size: 30px;
+    font-weight:600;
     line-height: normal;
     margin-top: 0; 
     margin-bottom: 20px;
@@ -69,19 +69,19 @@ margin-bottom: 0;
 
     color: #161D2A;
 font-size: 24px;
-font-weight: 700;
-line-height: 24px; 
+font-weight: 400;
+line-height: 22px; 
 margin-right: 8px;
 
 }
 
 .contacts-link {
 
-    color: 		#C71585;
-font-size: 24px;
-font-weight: 500;
-line-height: 24px;
-text-decoration-line: underline; 
+    color: 			#161D2A;
+font-size: 19px;
+font-weight: 700;
+line-height: 22px;
+text-decoration-line: none;
 
 }
 
@@ -111,8 +111,8 @@ text-decoration-line: underline;
 .skills-title {
 
     color: #161D2A;
-    font-size: 30px;
-    font-weight: 700;
+    font-size:30px;
+    font-weight: 600;
     line-height: normal; 
     margin-top: 0;
     margin-bottom: 20px;
@@ -129,7 +129,7 @@ text-decoration-line: underline;
 
     color: #161D2A;
     font-size: 20px;
-    font-weight: 550;
+    font-weight:550;
     line-height: 30px; 
  }
 
@@ -141,7 +141,7 @@ margin-bottom: 60px;
 .ss-title {
     color: #161D2A;
 font-size: 30px;
-font-weight: 700;
+font-weight: 600;
 line-height: normal;
 margin-top: 0;
 margin-bottom: 20px;
@@ -163,7 +163,7 @@ line-height: 30px;
 /* my content */
 
 .my-proffesion {
-    color: #000;
+    color: #4169E1;
     font-size: 30px;
     font-weight: 700;
     line-height: 17px;
@@ -260,7 +260,7 @@ padding-left: 16px;
  }
 
  .company-name {
-    color: #C71585;
+    color: #4169E1;
     
  }
 
@@ -295,7 +295,7 @@ padding-left: 16px;
     line-height: 27px; 
 }
 .education-place {
-    color: #C71585;
+    color: #4169E1;
 font-size: 22px;
 font-weight: 700;
 line-height: 40px;
@@ -322,3 +322,7 @@ font-size: 20px;
 font-weight: 600;
 line-height: 25px;
 }
+
+
+ 
+
