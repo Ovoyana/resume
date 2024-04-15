@@ -36,11 +36,11 @@ margin-bottom: 0;
 /* sidebar */
 .sidebar {
 
-    background: 		#4169E1;
+    background: 	coral;
     padding-top: 40px;
     padding-bottom: 40px;
     box-sizing: border-box;
-    width: 375px;
+    width: 380px;
 
 }
 .sidebar-content {
@@ -68,7 +68,7 @@ margin-bottom: 0;
 .contacts-type {
 
     color: #161D2A;
-font-size: 24px;
+font-size: 25px;
 font-weight: 400;
 line-height: 22px; 
 margin-right: 8px;
@@ -78,7 +78,7 @@ margin-right: 8px;
 .contacts-link {
 
     color: 			#161D2A;
-font-size: 19px;
+font-size: 20px;
 font-weight: 700;
 line-height: 22px;
 text-decoration-line: none;
@@ -121,14 +121,14 @@ text-decoration-line: none;
 
 .skills-list {
 
-    padding-left: 16px;
+    padding-left: 20px;
     
 }
 
  .skills-list-item {
 
     color: #161D2A;
-    font-size: 20px;
+    font-size: 22px;
     font-weight:550;
     line-height: 30px; 
  }
@@ -154,7 +154,7 @@ margin-bottom: 20px;
 
 .ss-list-item {
     color: #161D2A;
-font-size: 20px;
+font-size: 22px;
 font-weight: 550;
 line-height: 30px; 
 
@@ -163,7 +163,7 @@ line-height: 30px;
 /* my content */
 
 .my-proffesion {
-    color: #4169E1;
+    color:coral;
     font-size: 30px;
     font-weight: 700;
     line-height: 17px;
@@ -251,7 +251,7 @@ padding-left: 16px;
 
  .work-expierence-company {
     color: #000;
-    font-size: 22px;
+    font-size: 25px;
     font-weight: 700;
     line-height: 40px; 
     margin-top: 0;
@@ -260,13 +260,13 @@ padding-left: 16px;
  }
 
  .company-name {
-    color: #4169E1;
+    color:coral;
     
  }
 
  .work-expierence-period {
     color: rgb(33, 51, 69);
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 500;
     line-height: 18px;
     margin-bottom: 16px;
@@ -281,7 +281,7 @@ padding-left: 16px;
 
 .work-expierence-duties-item {
     color: rgb(33, 51, 69);
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 550;
     line-height: 28px; 
 }
@@ -295,8 +295,8 @@ padding-left: 16px;
     line-height: 27px; 
 }
 .education-place {
-    color: #4169E1;
-font-size: 22px;
+    color: coral;
+font-size: 25px;
 font-weight: 700;
 line-height: 40px;
 }
@@ -308,7 +308,7 @@ line-height: 25px;
 }
 .education-place-period {
     color: rgb(33, 51, 69);
-font-size: 16px;
+font-size: 18px;
 font-weight: 500;
 line-height: 18px;
 }
@@ -318,7 +318,7 @@ line-height: 18px;
 .rodo {
     margin-top: 60px;
     color:  #000;
-font-size: 20px;
+font-size: 22px;
 font-weight: 600;
 line-height: 25px;
 }
